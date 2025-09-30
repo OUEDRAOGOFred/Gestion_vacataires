@@ -1,0 +1,27 @@
+{
+  "name": "gestion-vacataires-2ie",
+  "version": "1.0.0",
+  "description": "Application de gestion des enseignants vacataires pour l'institut 2iE",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "keywords": [
+    "vacataires",
+    "2ie",
+    "gestion",
+    "education",
+    "react",
+    "nodejs"
+  ],
+  "author": "Équipe de développement 2iE",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
