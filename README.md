@@ -1,4 +1,5 @@
 # 🎓 Application de Gestion des Vacataires 2iE
+# 🎓 Application de Gestion des Vacataires 2iE
 
 Application web complète pour la gestion des enseignants vacataires de l'institut 2iE, permettant de gérer le processus complet : candidature → validation → contrat → paiement.
 
@@ -240,3 +241,6 @@ Pour toute question ou problème, contactez l'équipe de développement.
 ---
 
 **Développé pour l'Institut 2iE** 🎓
+=======
+"# Gestion_vacataires" 
+>>>>>>> a65ace66da00bd3b2d3b40ec778aa3dfb47b8429
